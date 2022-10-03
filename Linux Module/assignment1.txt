@@ -1,0 +1,11 @@
+Saketh is important because it's a software development and operations approach that enables faster development of new products and easier maintenance of existing deployments.
+benefits of devops
+maximizes efficiency with automation
+optimizes the entire business 
+improves speed and stability of software development and deployment
+the future of devops
+the future of devops will likely bring changes in tooling and organizational strategies, but its core mission will remain the same
+automation will play a major role
+aiops will make service uptime easier to achieve
+will sharpen focus on cloud optimization
+
